@@ -1,0 +1,453 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600723,
+          48.192227
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "0",
+        "xcoord": "4470318.28",
+        "latitude": "48.192227",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Lindberghstra\u00c3\u009fe 8a",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof plus Freimann",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5339334.09",
+        "ogr_fid": "59615",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.600723",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.516708,
+          48.154591
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "1",
+        "xcoord": "4464046.48",
+        "latitude": "48.154591",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Arnulfstra\u00c3\u009fe 290",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Nymphenburg",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5335185.55",
+        "ogr_fid": "33489",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.516708",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.650313,
+          48.163823
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "2",
+        "xcoord": "4473990.37",
+        "latitude": "48.163823",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Savitsstra\u00c3\u009fe 79",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Englschalking",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5336158.16",
+        "ogr_fid": "33490",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.650313",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.544269,
+          48.204123
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "3",
+        "xcoord": "4466129.45",
+        "latitude": "48.204123",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Lerchenstra\u00c3\u009fe 13",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Feldmoching",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5340680.04",
+        "ogr_fid": "33491",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.544269",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.693106,
+          48.11983
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "4",
+        "xcoord": "4477153.79",
+        "latitude": "48.119830",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Mauerseglerstra\u00c3\u009fe 9",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Trudering",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5331253.41",
+        "ogr_fid": "33492",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.693106",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62045,
+          48.136414
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "5",
+        "xcoord": "4471754.13",
+        "latitude": "48.136414",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Truderinger Stra\u00c3\u009fe 2a",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Steinhausen",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5333121.29",
+        "ogr_fid": "33494",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.620450",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632182,
+          48.089133
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "6",
+        "xcoord": "4472602.1",
+        "latitude": "48.089133",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Bayerwaldstra\u00c3\u009fe 33",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Perlach",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5327860.33",
+        "ogr_fid": "33495",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.632182",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.527895,
+          48.133201
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "7",
+        "xcoord": "4464864.09",
+        "latitude": "48.133201",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "T\u00c3\u00bcbinger Stra\u00c3\u009fe 13",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Sendling",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5332802.22",
+        "ogr_fid": "33496",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.527895",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.47763,
+          48.104704
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "8",
+        "xcoord": "4461101.71",
+        "latitude": "48.104704",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Tischlerstra\u00c3\u009fe 3",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Gro\u00c3\u009fhadern",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5329658.05",
+        "ogr_fid": "33498",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.477630",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.594583,
+          48.183448
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "9",
+        "xcoord": "4469856.72",
+        "latitude": "48.183448",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Wilhelm-Wagenfeld-Stra\u00c3\u009fe 5",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Schwabing",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5338360.44",
+        "ogr_fid": "33499",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.594583",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626708,
+          48.228369
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "10",
+        "xcoord": "4472269.5",
+        "latitude": "48.228369",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Werner-Heisenberg-Allee 62",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Freimann (Entsorgungspark)",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5343342.66",
+        "ogr_fid": "33709",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.626708",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.545581,
+          48.109569
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "11",
+        "xcoord": "4466164.85",
+        "latitude": "48.109569",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Thalkirchner Stra\u00c3\u009fe 260",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Thalkirchen",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5330166.83",
+        "ogr_fid": "33710",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.545581",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.493961,
+          48.193106
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "12",
+        "xcoord": "4462382.4",
+        "latitude": "48.193106",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "Am Neubruch 23",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof Allach",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5339478.49",
+        "ogr_fid": "33493",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.493961",
+        "faktor": "1"
+      },
+      "id": null
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.438974,
+          48.172594
+        ]
+      },
+      "properties": {
+        "link": "http://www.awm-muenchen.de/index/wertstoffhoefe/adressen-und-oeffnungszeiten.html",
+        "fid": "13",
+        "xcoord": "4458278.2",
+        "latitude": "48.172594",
+        "winkel": "90",
+        "rubrik": "Wertstoffhof",
+        "adresse": "M\u00c3\u00bchlangerstra\u00c3\u009fe 100",
+        "admpblock": "WSH",
+        "ebene": "308",
+        "inhalt": "Wertstoffhof plus Lochhausen",
+        "name": "WSH",
+        "lebenslage": "Ver- und Entsorgung",
+        "gemeinde": "Landeshauptstadt M\u00c3\u00bcnchen",
+        "etyp": "SY",
+        "ycoord": "5337226.31",
+        "ogr_fid": "94486",
+        "admplayer": "KART_SYMBOL",
+        "longitude": "11.438974",
+        "faktor": "1"
+      },
+      "id": null
+    }
+  ],
+  "type": "FeatureCollection"
+}
